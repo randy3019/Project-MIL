@@ -10,3 +10,4 @@ Pengolahan citra ini di jalankan menggunakan program python dan library open cv.
 # Requirements
 
 Program ini menggunakan bahasa pemrograman Python versi 3.* yang  ditulis secara "Procedural Programming" dan untuk menjalankan program dapat menggunakan Google Colaboratory.
+Dataset yang diperlukan untuk menjalankan program adalah adalah 3 gambar cabe yang berbeda yaitu: cabe berwarna merah,kuning,dan hijau.
