@@ -34,5 +34,5 @@ Gambar Hasil Thresholding:
 ![noise](https://user-images.githubusercontent.com/59527893/196136664-8dee2a9a-c0ca-4d3c-a390-7fa9cf3f6620.png)
 
 
-** Pada gambar kedua hasil Thresholding masih terdapat moise berwarna hitam, dimana noise tersebut dapat di hilangkan dengan proses morfologi yaitu erosi dan dilasi.
+** Pada gambar kedua hasil Thresholding masih terdapat Noise berwarna hitam, dimana noise tersebut dapat di hilangkan dengan proses morfologi yaitu erosi dan dilasi.
 
